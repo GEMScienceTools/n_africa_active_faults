@@ -1,6 +1,8 @@
 North Africa Active Faults
 ==========================
 
+https://doi.org/10.13117/n-africa-active-faults
+
 This is a database of active fault traces in North Africa for the
 Global Earthquake Model Foundation's Global Active Faults compilation.
 
